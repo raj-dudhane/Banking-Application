@@ -1,3 +1,3 @@
 # Banking-Application
 
-This is a banking Application
+This is a banking Application Project
